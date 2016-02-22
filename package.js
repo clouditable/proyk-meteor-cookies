@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.use('tracker', 'client');
+  api.use('tracker@1.0.9', 'client');
   api.addFiles('cookie.js', 'client');
   api.export('Cookie', 'client');
 });
