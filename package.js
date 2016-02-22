@@ -1,8 +1,8 @@
 Package.describe({
   name: 'proyk:meteor-cookies',
   version: '0.0.1',
-  summary: 'Chrome push notifications',
-  git: 'https://github.com/subhog/proyk:meteor-cookies.git',
+  summary: 'Meteor cookies',
+  git: 'https://github.com/ykptke/proyk-meteor-cookies.git',
   documentation: 'README.md'
 });
 
